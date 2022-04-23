@@ -7,7 +7,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # Just the docs config
 color_scheme: dark
-logo: "/assets/images/sofecta-labs.png"
+logo: "/assets/images/sofecta-labs-logo-white.png"
 
 search_enabled: true
 search:
