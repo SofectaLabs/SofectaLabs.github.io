@@ -1,3 +1,4 @@
 # remote_theme: rundocs/jekyll-rtd-theme
-remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: gustavoquinalha/jekyll-help-center-theme
 
